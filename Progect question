@@ -25,7 +25,7 @@ if nachalo == 'Start':
         if vopros2 != 'Scip' and '2137':
             print ('Не верю! попробуйте ещё!')
             
-    while (vopros3 != 'Scip' and vopros3 != '18'):
+    while (vopros3 != 'Scip' and vopros3 != '19683'):
         
         vopros3 = input ('Третий вопрос! 3 степень числа 9?')
         if vopros3 == '19683':
